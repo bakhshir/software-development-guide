@@ -68,7 +68,7 @@ If your language supports namespaces, use **nl.esciencecenter**
 
 ## Code reviews
 
-We will no no formal code reviews. However, for each project, there is a single person, called the integration manager, responsible for the repository. The integration manager is the only person who commits to the 'blessed' repository. A number of developers then clone from that repository, push to their own independent repositories, and ask the integrator to pull in their changes. If needed, the integration manager can perform a quality review of the code when he handles the pull request.
+We will have no formal code reviews. However, for each project, there is a single person, called the integration manager, responsible for the repository. The integration manager is the only person who commits to the 'blessed' repository. A number of developers then clone from that repository, push to their own independent repositories, and ask the integrator to pull in their changes. If needed, the integration manager can perform a quality review of the code when he handles the pull request.
 
 ## Software quality improvement tools
 
